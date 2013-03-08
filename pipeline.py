@@ -131,7 +131,7 @@ class MoveFiles(SimpleTask):
 project = Project(
   title = "Storylane",
   project_html = """
-    <img class="project-logo" alt="Storylane Logo" src="http://archiveteam.org/images/2/2b/Storylane-logo.png" />
+    <img class="project-logo" alt="Storylane Logo" src="http://archiveteam.org/images/2/2b/Storylane-logo.png" height="50" />
     <h2>Storylane.com <span class="links"><a href="http://www.storylane.com/">Website</a> &middot;
         <a href="http://tracker.archiveteam.org/storylane/">Leaderboard</a></span></h2>
     <p><i>Storylane</i> is bought by Facebook.</p>
